@@ -1,6 +1,3 @@
--- Hello, please find below the code I have written and the process I went through to explore covid data in SQL
-
-
 SELECT *
 FROM PortfolioProjects.dbo.CovidVaccinations
 
